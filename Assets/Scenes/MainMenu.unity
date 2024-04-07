@@ -510,6 +510,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 489701129131449448, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 489701129131449448, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_SlopeLimit
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 662533761245318364, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: m_text
@@ -589,6 +599,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4600530687292521614, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6578302502789273310, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
