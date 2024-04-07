@@ -512,6 +512,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 489701129131449448, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
+      propertyPath: m_Height
+      value: 2.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 489701129131449448, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -559,6 +564,11 @@ PrefabInstance:
         type: 3}
       propertyPath: slopeSpeeed
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3805208510189070522, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4174535894395305454, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
@@ -610,6 +620,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4471464567408375694, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.58
+      objectReference: {fileID: 0}
     - target: {fileID: 4600530687292521614, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: m_IsActive
@@ -619,6 +634,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 9147457390299288725, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: m_text
+      value: 'By: Cameron Traer'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
